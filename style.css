@@ -1,0 +1,376 @@
+.layhead{
+	text-align: center;
+}
+.container{
+	overflow: hidden;
+}
+.header{width: 100%;
+	height: 70px ;
+         background-color: #FC766AFF;
+}
+
+.section{width: 65%;
+	height: 300px ;
+         background-color:  #184A45FF;
+         float: left;
+}
+.section2{width: 35%;
+	height: 300px ;
+         background-color: #2A2B2DFF;
+         float: left;
+}
+.bottomsec{
+	width: 32.5%;
+	height: 250px ;
+         background-color: #58A6A6;
+         float: left;
+}
+.bottomsec2{
+	width: 32.5%;
+	height: 250px ;
+         background-color: #421E22;
+         float: left;
+}
+.bottomsec3{
+	width: 35%;
+	height: 250px ;
+         background-color: #EFA355;
+         float: left;
+}
+.container3{
+	overflow: hidden;
+}
+.sec1{
+	background-color: lightcyan;
+	height: 400px;
+	width: 40%;
+	float: left;
+}
+.sec2{
+	background-color: red;
+	height: 400px;
+	width: 60%;
+	float: left;
+}
+.sec3{
+	background-color: blue;
+	height: 300px;
+	width: 25%;
+	float: left;
+}
+.sec4{
+	background-color: black;
+	height: 300px;
+	width: 25%;
+	float: left;
+}
+.sec5{
+	background-color: darkcyan;
+	height: 300px;
+	width: 25%;
+	float: left;
+}
+.sec6{
+	background-color: black;
+	height: 300px;
+	width: 25%;
+	float: left;
+}
+
+.footer22{
+	background-color: blueviolet;
+	width: 100%;
+	height: 250px;
+}
+.container4{
+	overflow: hidden;
+}
+
+.lay1{
+	background-color: darkcyan;
+	height: 80px;
+	width: 100%;
+	
+}
+
+.lay2{
+	background-color: lightcyan;
+	height: 500px;
+	width: 100%;
+	
+}
+.lay3{
+	background-color: lightblue;
+	height: 400px;
+	width: 40%;
+	float: left;
+	
+}
+.lay4{
+	background-color: black;
+	height: 400px;
+	width: 60%;
+	float: left;
+	
+}
+.lay5{
+	background-color: hotpink;
+	height: 400px;
+	width: 100%;
+	float: left;
+}
+.container5{
+	overflow: hidden;
+}
+
+.lay51{
+	background-color: darkcyan;
+	height: 75px;
+	width: 100%;
+}
+.lay52{
+	background-color: lightgrey;
+	height: 400px;
+	width: 40%;
+	float: left;
+}
+.lay53{
+	background-color: darkgray;
+	height: 400px;
+	width: 60%;
+	float: left;
+}
+.lay54{
+	background-color: lightsalmon;
+	height: 400px;
+	width: 60%;
+	float: left;
+}
+.lay55{
+	background-color: darksalmon;
+	height: 400px;
+	width: 40%;
+	float: left;
+}
+.lay56{
+	background-color: lightblue;
+	height: 300px;
+	width: 33%;
+	float: left;
+}
+
+.lay57{
+	background-color: lightcyan;
+	height: 300px;
+	width: 33%;
+	float: left;
+}
+.lay58{
+	background-color: lightcoral;
+	height: 300px;
+	width: 34%;
+	float: left;
+}
+.lay59{
+	background-color: hotpink;
+	height: 400px;
+	width: 100%;
+	float: left;
+}
+
+/* CSS Exercise Start here*/
+
+p{
+	color: darkcyan;
+}
+.red{
+	color: blueviolet;
+}
+#blue{
+	color: lightcyan;
+}
+.orange{
+	background-color: darkcyan;
+}
+.cyan{
+	background-color: blueviolet;
+}
+
+.bold{
+	color: lightgrey;
+}
+.para{
+	color: darkmagenta;
+}
+.L1{
+     border: 2px dotted darkmagenta;
+}
+.L2{
+     border: 2px solid skyblue;
+}
+.L3{
+     border: 2px solid orange;
+}
+
+.bg_property{
+	background-color: lightblue;
+}
+.opacity{
+	background-color: lightblue;
+	width: 20%;
+	height: 100px;
+	float: left;
+}
+.opacity2{
+	background-color: lightblue;
+	width: 20%;
+	height: 100px;
+	opacity: 0.8;
+	float: left;
+	text-align: center;
+}
+.opacity3{
+	background-color: lightblue;
+	width: 20%;
+	height: 100px;
+	opacity: 0.6;
+	float: left;
+	text-align: center;
+
+}
+.wrapper{
+	overflow: hidden;
+}
+
+.bg_image{
+	background-image: url("images/bg.jpg");
+	width: 40%;
+	height: 200px;
+	background-repeat: repeat-x;
+	
+}
+.bg_text{
+	color: black;
+	overflow: hidden;
+}
+.bor1{
+	border-style: dotted;
+	border-width: 2px;
+	border-color: darkcyan;
+	border-left-style: dashed;
+	border-right-style: ridge;
+	border-top-style: groove;
+}
+.bor2{
+	border-style: dashed;
+	border-width: thick;
+	border-color: black;
+	border-radius: 5px;
+}
+.bor3{
+	border-style: ridge;
+	border-width: medium;
+	border-color: darkcyan;
+	border-radius: 5px;
+}
+.bor4{
+	border-style: groove;
+	border-width: 5px;
+	border-color: lightcyan;
+}
+.bor5{
+	border-style: inset;
+	border-width: 4px;
+	border-color: darkcyan;
+}
+
+.mar1{
+	border-style: solid;
+	border-radius: 5px;
+	margin: 80px;
+}
+.mar2{
+	border-style: solid;
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+.padd{
+	padding: 100px;
+	border-style: ridge;
+}
+.padd2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 600px;
+	padding-left: 600px;
+}
+.container10{
+	overflow: hidden;
+}
+.wh{
+	height: 30px;
+	width: 40%;
+	background-color: darkcyan;
+}
+.container11{
+	overflow: hidden;
+}
+.box{
+	margin: 20px;
+	padding: 15px;
+	border: 5px solid;
+	width: 40px;
+}
+.box2{
+	margin: 20px;
+	padding: 15px;
+	border: 5px solid;
+	width: 40px;
+	outline-style: dashed;
+	outline-color: blue;
+	outline-width: 4px;
+}
+
+.text{
+	color: darkcyan;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+	text-indent: 30px;
+
+}
+.head1{
+	color: blueviolet;
+	text-align: center;
+}
+.text1{
+	color: red;
+	text-shadow: 2px 2px blueviolet;
+	text-align: center;
+}
+.font{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 30px;
+}
+.link{
+	border-style: solid;
+	background-color: hotpink;
+	color: white;
+	text-decoration: none;
+
+}
+table,td,th{
+	border: 2px solid green;
+	width: 50%;
+	border-collapse: collapse;
+	text-align: center;
+}
+img{
+	float: right;
+	width: 170px;
+	height: 170px;
+}
+
